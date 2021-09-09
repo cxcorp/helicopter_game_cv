@@ -4,6 +4,10 @@ A WIP project to automate an old Flash game named Helicopter Game with computer 
 
 ![](doc/gif.gif)
 
+### How does it work?
+
+It takes a screenshot of the game, does computer vision magic with OpenCV, then clicks your mouse to control the helicopter.
+
 ### Requirements
 
 #### OS
